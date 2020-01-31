@@ -1,5 +1,4 @@
-# im2recipe: Learning Cross-modal Embeddings for Cooking Recipes and Food Images
-
+# A Two-Phase Framework for Temporal-Aware Knowledge Graph Completion 
 This repository contains the code to train and evaluate models from the paper:  
 _Learning Cross-modal Embeddings for Cooking Recipes and Food Images_
 
@@ -13,7 +12,7 @@ If you find this code useful, please consider citing:
 
 ```
 @inproceedings{salvador2017learning,
-  title={Learning Cross-modal Embeddings for Cooking Recipes and Food Images},
+  title={A Two-Phase Framework for Temporal-Aware Knowledge Graph Completion},
   author={Salvador, Amaia and Hynes, Nicholas and Aytar, Yusuf and Marin, Javier and 
           Ofli, Ferda and Weber, Ingmar and Torralba, Antonio},
   booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
@@ -48,10 +47,6 @@ Install the following packages:
 luarocks install torch
 luarocks install nn
 luarocks install image
-luarocks install optim
-luarocks install rnn
-luarocks install loadcaffe
-luarocks install moonscript
 ```
 
 Install CUDA and cudnn. Then run:
