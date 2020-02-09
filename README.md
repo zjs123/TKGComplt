@@ -72,7 +72,7 @@ The default hyperparameters give the best performances.
 
 ## Datasets
 
-There are three datasets used in our experiment:YAGO11K, WIKI12K and WIKI36K. facts of each datases have time annotation, which is formed as "[start_time , end_time]". Each data folder has six files: 
+There are three datasets used in our experiment:YAGO11K, WIKIDATA12K and WIKIDATA36K. facts of each datases have time annotation, which is formed as "[start_time , end_time]". Each data folder has six files: 
 
 -entity2id.txt: the first column is entity name, and second column is index of entity.
 
