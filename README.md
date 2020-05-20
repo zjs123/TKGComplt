@@ -1,6 +1,6 @@
 # pytorch implementation of A Two-Phase Framework for Temporal-Aware Knowledge Graph Completion 
 
-Paper: [A Two-Phase Framework for Temporal-Aware Knowledge Graph Completion]
+Paper: [TKGFrame: A Two-Phase Framework for Temporal-Aware Knowledge Graph Completion]
 
 We propose a novel two-phase model to infer missing facts in temporal knowledge graph by utilizing temporal information, and this repository contains the implementation of our two-phase model described in the paper.
 
