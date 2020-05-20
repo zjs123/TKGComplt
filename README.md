@@ -13,10 +13,9 @@ If you make use of this code in your work, please cite the following paper:
 ```
 @inproceedings{salvador2017learning,
   title={A Two-Phase Framework for Temporal-Aware Knowledge Graph Completion},
-  author={Salvador, Amaia and Hynes, Nicholas and Aytar, Yusuf and Marin, Javier and 
-          Ofli, Ferda and Weber, Ingmar and Torralba, Antonio},
-  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-  year={2017}
+  author={Jiasheng Zhang, Yongpan Sheng and Jie Shao},
+  booktitle={the 4th Asia Pacific Web and Web-Age Information ManagementJoint Conference on Web and Big Data},
+  year={2020}
 }
 ```
 
@@ -47,7 +46,7 @@ pip install cudnn
 Then clone the repository::
 
 ```
-git clone https://github.com/shengyp/TKGComplt.git
+git clone https://github.com/zjs123/TKGComplt.git
 ```
 
 We use Python3 for data processing and our code is also written in Python3. 
@@ -96,4 +95,4 @@ We use following public codes for baseline experiments.
 
 ## Contact
 
-For any questions or suggestions you can use the issues section or reach us at amaia.salvador@upc.edu or nhynes@mit.edu.
+For any questions or suggestions you can use the issues section or reach us at shengyp2011@gmail.com or zjss12358@gmail.com.
