@@ -95,4 +95,4 @@ We use following public codes for baseline experiments.
 
 ## Contact
 
-For any questions or suggestions you can use the issues section or reach us at shengyp2011@gmail.com or zjss12358@gmail.com.
+For any questions or suggestions you can use the issues section or contact us at shengyp2011@gmail.com or zjss12358@gmail.com.
