@@ -4,7 +4,7 @@ Paper: [TKGFrame: A Two-Phase Framework for Temporal-Aware Knowledge Graph Compl
 
 We propose a novel two-phase model to infer missing facts in temporal knowledge graph by utilizing temporal information, and this repository contains the implementation of our two-phase model described in the paper.
 
-<p align="center"><img src="example.png" width="300"/></p>
+<p align="center"><img src="figs/example.png" width="300"/></p>
 
 Temporal knowledge graph (TKG) completion task aims to add newfacts to a KG by making inferences from facts contained in the existing triples andinformation of valid time. Many methods has been proposed towards this prob-lem, but most of them ignore temporal rules which is accurate and explainable fortemporal KG completion task. In this paper, we present a novel two-phase frame-work which integrate the advantage between time-aware embedding and temporal rules. Firstly, a trans-based temporal KG representation method is proposed tomodel the semantic information and temporal information of KG. Then a refinement model is utilized to further improve the performance of current task, which is achieved by solving a joint optimizing problem as an integer linear programming  (ILP).  
 
