@@ -61,7 +61,7 @@ python data_processing.py
 Then, Train the model
 ```
 cd ..
-python Train.py -d
+python Train.py 
 ```
 Finally, ILP model was used to predict new facts
 ```
