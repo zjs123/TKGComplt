@@ -11,7 +11,7 @@ Temporal knowledge graph (TKG) completion task aims to add newfacts to a KG by m
 If you make use of this code in your work, please cite the following paper:
 
 ```
-@inproceedings{salvador2017learning,
+@inproceedings{Zhang2020TKGFrame,
   title={A Two-Phase Framework for Temporal-Aware Knowledge Graph Completion},
   author={Jiasheng Zhang, Yongpan Sheng and Jie Shao},
   booktitle={the 4th Asia Pacific Web and Web-Age Information ManagementJoint Conference on Web and Big Data},
